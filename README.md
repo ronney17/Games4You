@@ -6,8 +6,8 @@ Nesse trabalho vamos elencar o processo de criação de um site, cuja a temátic
 
 Requisitos:
 
-*Apache Tomcat 8.5 ou superior
-*Configurar banco de dados MySQL com BD fornecido
-*Mudar nome de usuario e senha em ConnectionFactory para o seu ambiente | ConnectionFactory na pasta src > dao
-*Configurar mysql connector, javax servlet e javax servlet api em Java Build Path | Conectores na pasta WebContent > WEB-INF > lib
+*Apache Tomcat 8.5 ou superior\
+*Configurar banco de dados MySQL com BD fornecido\
+*Mudar nome de usuario e senha em ConnectionFactory para o seu ambiente | ConnectionFactory na pasta src > dao\
+*Configurar mysql connector, javax servlet e javax servlet api em Java Build Path | Conectores na pasta WebContent > WEB-INF > lib\
 *Iniciar index.html com servidor tomcat

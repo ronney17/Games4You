@@ -1,0 +1,30 @@
+p {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100%;
+	background-image: url(../Imagens/bgmenu.jpg);
+	background-repeat: no-repeat background-position: center;
+	background-size: 1920px 1440px;
+}
+
+#content {
+	align-content: center; 
+	flex : 1;
+	padding: 20px;
+	flex: 1;
+}
+
+#footer {
+	padding: 20px;
+}

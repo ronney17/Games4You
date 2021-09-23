@@ -1,0 +1,8 @@
+p {
+	white-space: nowrap;
+	overflow: hidden;
+	word-wrap: break-word;
+	max-height: 3.6em;
+	line-height: 1.2em;
+	text-overflow: ellipsis;
+}

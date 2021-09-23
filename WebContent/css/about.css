@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+
+html {
+	height: 100%;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100%;
+}
+
+#content {
+	align-content: center; 
+	flex : 1;
+	padding: 20px;
+	flex: 1;
+}
+
+#footer {
+	padding: 20px;
+}
+
+#texto {
+	text-shadow: 1px 1px #000000;
+	align-content: center;
+	margin: auto;
+	padding-top: 80px;
+	width: 100%;
+	padding-top: 100px;
+	align-self: center;
+}

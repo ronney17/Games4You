@@ -1,0 +1,124 @@
+body {
+	background-image: url(../Imagens/bgmenu6.png);
+	background-repeat: no-repeat background-position: center;
+	background-size: cover;
+}
+
+.dsk {
+	align-items: center;
+	padding: 50px;
+	width: 95%;
+	margin: 0 auto;
+}
+
+.col-1 {
+	width: 30%;
+	background: none;
+	float: left;
+}
+
+.col-2 {
+	width: 70%;
+	background: none;
+	float: left;
+}
+
+.capa {
+	width: 95%;
+	height: auto;
+	margin: 5% 5% 0 0;
+	position: relative;
+	z-index: 1;
+}
+
+h1 {
+	padding: 0 0 9px 0;
+	font: 700 18px 'Saira', sans-serif;
+	width: 100%;
+	margin: 15px 10px 0 0;
+	text-transform: uppercase;
+	color: #DD0000
+}
+
+.sinopse {
+	font: 400 13px 'Saira', sans-serif;
+	max-height: 94px;
+	transition: ease 0.2s;
+	width: 100%;
+	color: #545454;
+	margin: 10px 10px 9px 0;
+	padding: 9px 0 9px 0;
+	float: left;
+	border-bottom: 1px solid #e8e8e8;
+	border-top: 1px solid #e8e8e8;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.sinopse strong {
+	font-weight: 600;
+}
+
+.sinopse:hover {
+	max-height: none;
+}
+
+p {
+	font: 400 13px 'Saira', sans-serif;
+	margin: 5px 10px 5px 0;
+	color: #545454;
+}
+
+p strong {
+	font-weight: 600;
+}
+
+p a {
+	color: #DD0000
+}
+
+p a:hover {
+	text-decoration: underline;
+}
+
+.rL, .r10, .r12, .r14, .r16, .r18 {
+	font: 400 13px 'Saira', sans-serif;
+	color: #fff;
+	text-align: center;
+	margin: 1px 5px 0 0;
+	float: left;
+	height: 32px;
+	width: 32px;
+	line-height: 32px;
+}
+
+.rL {
+	background: #01a54f;
+}
+
+.r10 {
+	background: #00a651;
+}
+
+.r12 {
+	background: #0095d9;
+}
+
+.r14 {
+	background: #f6821f;
+}
+
+.r16 {
+	background: #ec1b23;
+}
+
+.r18 {
+	background: #000;
+}
+
+.rt {
+	font: 400 13px 'Saira', sans-serif;
+	color: #545454;
+	padding: 7px 0 0 0;
+	float: left;
+}

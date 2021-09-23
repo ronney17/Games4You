@@ -1,0 +1,33 @@
+body {
+	background-image: url(../Imagens/bgmenu.jpg);
+	background-repeat: no-repeat background-position: center;
+	background-size: cover;
+}
+
+.titulosobrenos {
+	text-align: center;
+	font-family: "Times New Roman";
+	color: #ffffff;
+	font-size: 30px;
+}
+
+.titulosobrenos2 {
+	text-align: center;
+	font-family: "Times New Roman";
+	color: #ffffff;
+	font-size: 25px;
+}
+
+.apresentacao {
+	color: white;
+	text-align: justify;
+	font-family: "Times New Roman";
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 1px;
+}
+
+.apre {
+	padding-left: 100px;
+	padding-right: 100px;
+}

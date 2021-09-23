@@ -1,6 +1,6 @@
 # Games4You
-Trabalho da disciplina de Projeto Interdisciplinar apresentado ao Curso de Ciências da Computação como quesito parcial da nota que compõe o semestre.
-\Orientador: Prof. Hamilton Machiti.
+Trabalho da disciplina de Projeto Interdisciplinar apresentado ao Curso de Ciências da Computação como quesito parcial da nota que compõe o semestre.  
+Orientador: Prof. Hamilton Machiti.
 
 Nesse trabalho vamos elencar o processo de criação de um site, cuja a temática e o comércio. Utilizando mvc, java, html, css, javascript e boostrap. O tema escolhido para o site foi o de venda de jogos.
 
